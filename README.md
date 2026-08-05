@@ -22,7 +22,7 @@ My goal is to understand both the hardware and software behind Arduino and to do
 
 | Day | Topic | Components Used | Link |
 | :--- | :--- | :--- | :--- |
-| **Day 01** | Getting Started & LED Blink | Arduino Uno, LED, 220Ω Resistor | [View Log](./Day-01/) |
+| **Day 01** | Getting Started & LED Blink | Arduino Uno, LED, 330Ω Resistor, Wires | [View Log](./Day-01/) |
 
 
 ## Future Projects
