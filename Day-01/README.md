@@ -8,7 +8,7 @@
 
 Click the thumbnail below to watch today's video log:
 
-[![Watch Day 01 Demonstration](https://youtube.com/shorts/_Ji0BdF9HPA?si=UnMv6gbGOzfO1wDz)
+[![Watch Day 01 Demonstration](https://img.youtube.com/vi/_Ji0BdF9HPA/hqdefault.jpg)](https://www.youtube.com/watch?v=_Ji0BdF9HPA)
 
 ---
 
@@ -22,7 +22,7 @@ Click the thumbnail below to watch today's video log:
 
 ---
 
-## 💻 Code [Pulsing Light]
+## 💻 Code
 
 ```cpp
 // Day 01: [Pulsing Light]
@@ -39,9 +39,6 @@ delay(500);
 digitalWrite(13, LOW);
 delay(500);
 }
----
-## 💻 Code [Pulsing Light]
-```cpp
 
 // Day 01: [Traffic Light]
 void setup() {
@@ -88,11 +85,12 @@ digitalWrite(GREEN_PIN, LOW);
 digitalWrite(YELLOW_PIN, HIGH);
 delay(500);
 digitalWrite(YELLOW_PIN, LOW);
-
+    
 digitalWrite(RED_PIN, HIGH);
 delay(DELAY_TIME);
 digitalWrite(RED_PIN, LOW);
 }
+
 
 
 
