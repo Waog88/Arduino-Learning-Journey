@@ -40,7 +40,10 @@ digitalWrite(13, LOW);
 delay(500);
 }
 
+
 // Day 01: [Traffic Light]
+
+
 void setup() {
   // put your setup code here, to run once:
 pinMode(12, OUTPUT);
@@ -63,7 +66,10 @@ delay(500);
 digitalWrite(7, LOW);
 }
 
+
 // Day 01: [Traffic Light + Arduino Variables]
+
+
 int DELAY_TIME = 5000;
 int GREEN_PIN = 12;
 int YELLOW_PIN = 8;
