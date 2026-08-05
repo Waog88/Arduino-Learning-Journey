@@ -22,7 +22,7 @@ Click the thumbnail below to watch today's video log:
 
 ---
 
-## 💻 Code
+## 💻 Code [Pulsing Light]
 
 ```cpp
 // Day 01: [Pulsing Light]
@@ -39,7 +39,10 @@ delay(500);
 digitalWrite(13, LOW);
 delay(500);
 }
+---
+## 💻 Code [Pulsing Light]
 ```cpp
+
 // Day 01: [Traffic Light]
 void setup() {
   // put your setup code here, to run once:
