@@ -12,7 +12,7 @@ Understood how computer works through binary numbers and built a simple binary c
 
 Click the thumbnail below to watch today's video log:
 
-[![Watch Day 01 Demonstration](https://img.youtube.com/vi/_Q0NcB_krisE/hqdefault.jpg)](https://www.youtube.com/watch?v=_Q0NcB_krisE)
+[![Watch Day 02 Demonstration](https://img.youtube.com/vi/Q0NcB_krisE/hqdefault.jpg)](https://www.youtube.com/watch?v=Q0NcB_krisE)
 
 ---
 
