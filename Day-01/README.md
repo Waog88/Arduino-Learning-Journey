@@ -3,6 +3,10 @@
 **Date:** August 1, 2026  
 
 ---
+## 📃 Description
+In day 1, I learned the basics of arduino and built a blinking LED and a traffic light system using basic components and some usage of arduino variables.
+
+---
 
 ## 📹 Video Demonstration
 
