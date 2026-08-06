@@ -16,7 +16,7 @@ My goal is to understand both the hardware and software behind Arduino and to do
 - Displays (OLED/LCD)
 - Serial communication
 - Problem solving
-- AND SO MUCH MORE THAT I HAVENT DISCOVERED YET!!!
+- And many more!
 
 ## Daily Logs
 
@@ -33,4 +33,4 @@ My goal is to understand both the hardware and software behind Arduino and to do
 - Robot Car
 - Weather Station
 - Smart Home Controller
-- And many more ideas to come!
+- And many more!
