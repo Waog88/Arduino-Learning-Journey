@@ -1,4 +1,4 @@
-# Day 01: [Binary numbers]
+# Day 02: [Binary numbers]
 
 **Date:** August 5, 2026  
 
