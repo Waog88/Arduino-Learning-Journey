@@ -1,4 +1,4 @@
-# Day 02: [AnalogWrite]
+# Day 03: [AnalogWrite]
 
 **Date:** August 12, 2026  
 
