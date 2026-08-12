@@ -24,6 +24,7 @@ My goal is to understand both the hardware and software behind Arduino and to do
 | :--- | :--- | :--- | :--- |
 | **Day 01** | Getting Started & LED Blink | Arduino Uno, LED, 330Ω Resistor, Wires | [View Log](./Day-01/) |
 | **Day 02** | Binary Numbers | Arduino Uno, LED, 330Ω Resistor, Wires | [View Log](./Day-02/) |
+| **Day 03** | AnalogWrite | Arduino Uno, LED, 330Ω Resistor, Wires | [View Log](./Day-03/) |
 
 
 ## Future Projects
