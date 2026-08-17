@@ -26,7 +26,7 @@ My goal is to understand both the hardware and software behind Arduino and to do
 | **Day 02** | Binary Numbers | Arduino Uno, LED, 330Ω Resistor, Wires | [View Log](./Day-02/) |
 | **Day 03** | AnalogWrite | Arduino Uno, LED, 330Ω Resistor, Wires | [View Log](./Day-03/) |
 | **Day 04** | Reading Analog Voltage | Arduino Uno, 330Ω and 100Ω Resistor, Wires | [View Log](./Day-04/) |
-| **Day 05** | Reading Analog Voltage | Arduino Uno, 330Ω Resistor, Wires, LEDs, Potentiometer | [View Log](./Day-05/) |
+| **Day 05** | Potentiometer | Arduino Uno, 330Ω Resistor, Wires, LEDs, Potentiometer | [View Log](./Day-05/) |
 
 
 ## Future Projects
