@@ -1,6 +1,6 @@
 # Day 06: [For Loops and While Loops]
 
-**Date:** August 16, 2026  
+**Date:** August 22, 2026  
 
 ---
 ## 📃 Description
