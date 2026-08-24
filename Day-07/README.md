@@ -12,7 +12,7 @@ Learned how to read integers and strings from serial ports via user input and us
 
 Click the thumbnail below to watch today's video log:
 
-[![Watch Day 03 Demonstration](https://img.youtube.com/vi/z2ay6iUXEwM/hqdefault.jpg)](https://www.youtube.com/watch?v=z2ay6iUXEwM)
+[![Watch Day 03 Demonstration](https://img.youtube.com/vi/FKSfGD6m1Uk/hqdefault.jpg)](https://www.youtube.com/watch?v=FKSfGD6m1Uk)
 
 ---
 
