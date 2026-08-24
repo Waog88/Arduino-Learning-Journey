@@ -29,6 +29,7 @@ My goal is to understand both the hardware and software behind Arduino and to do
 | **Day 05** | Potentiometer | Arduino Uno, 330Ω Resistor, Wires, LEDs, Potentiometer | [View Log](./Day-05/) |
 | **Day 06** | For Loops and While Loops | Arduino Uno, 330Ω Resistor, Wires, LEDs, Potentiometer | [View Log](./Day-06/) |
 | **Day 07** | Reading Ints and Strings from Serial Ports | Arduino Uno, 330Ω Resistor, Wires, LEDs | [View Log](./Day-07/) |
+| **Day 08** | TBA | Arduino Uno, 330Ω Resistor, Wires, LEDs | [View Log](./Day-08/) |
 
 
 ## Future Projects
