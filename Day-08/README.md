@@ -12,7 +12,7 @@ Learned how RGB LEDs can create new colors by mixing the values of each color; r
 
 Click the thumbnail below to watch today's video log:
 
-[![Watch Day 03 Demonstration](https://img.youtube.com/vi/FKSfGD6m1Uk/hqdefault.jpg)](https://www.youtube.com/watch?v=FKSfGD6m1Uk)
+[![Watch Day 03 Demonstration](https://img.youtube.com/vi/oo5FhME0vLg/hqdefault.jpg)](https://www.youtube.com/watch?v=oo5FhME0vLg)
 
 ---
 
