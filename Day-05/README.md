@@ -12,7 +12,7 @@ Potentiometers are a variable resistor that takes a input voltage and outputs a 
 
 Click the thumbnail below to watch today's video log:
 
-[![Watch Day 03 Demonstration](https://img.youtube.com/vi/hI9oL1ftdxg/hqdefault.jpg)](https://www.youtube.com/watch?v=hI9oL1ftdxg)
+[![Watch Day 05 Demonstration](https://img.youtube.com/vi/hI9oL1ftdxg/hqdefault.jpg)](https://www.youtube.com/watch?v=hI9oL1ftdxg)
 
 ---
 
