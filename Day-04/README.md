@@ -12,7 +12,7 @@ Learned how to read voltage of a circuit with use of ohms law.
 
 Click the thumbnail below to watch today's video log:
 
-[![Watch Day 03 Demonstration](https://img.youtube.com/vi/z41suus4xRE/hqdefault.jpg)](https://www.youtube.com/watch?v=z41suus4xRE)
+[![Watch Day 04 Demonstration](https://img.youtube.com/vi/z41suus4xRE/hqdefault.jpg)](https://www.youtube.com/watch?v=z41suus4xRE)
 
 ---
 
