@@ -14,7 +14,7 @@ Less light = more resistance
 
 Click the thumbnail below to watch today's video log:
 
-[![Watch Day 10 Demonstration](https://img.youtube.com/vi/Zl5yKd1lqUA/hqdefault.jpg)](https://www.youtube.com/watch?v=Zl5yKd1lqUA)
+[![Watch Day 10 Demonstration](https://img.youtube.com/vi/M9l7ejC4NfE/hqdefault.jpg)](https://www.youtube.com/watch?v=M9l7ejC4NfE)
 
 ---
 
