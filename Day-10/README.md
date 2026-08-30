@@ -4,7 +4,7 @@
 
 ---
 ## 📃 Description
-Learned how photoresistor works and used LEDs and Buzzers to demonstrate
+Learned how photoresistor works and used LEDs and Buzzers to demonstrate examples.
 More light = less resistance
 Less light = more resistance
 
