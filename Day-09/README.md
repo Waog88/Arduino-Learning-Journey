@@ -14,7 +14,7 @@ Passive: No oscillator, different tones and frequencies, used to play melodies
 
 Click the thumbnail below to watch today's video log:
 
-[![Watch Day 03 Demonstration](https://img.youtube.com/vi/3EGScj37QCA/hqdefault.jpg)](https://www.youtube.com/watch?v=3EGScj37QCA)
+[![Watch Day 09 Demonstration](https://img.youtube.com/vi/3EGScj37QCA/hqdefault.jpg)](https://www.youtube.com/watch?v=3EGScj37QCA)
 
 ---
 
