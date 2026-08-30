@@ -12,7 +12,7 @@ Used both for and while loops in circuits to avoid repeating the same lines of c
 
 Click the thumbnail below to watch today's video log:
 
-[![Watch Day 03 Demonstration](https://img.youtube.com/vi/z2ay6iUXEwM/hqdefault.jpg)](https://www.youtube.com/watch?v=z2ay6iUXEwM)
+[![Watch Day 06 Demonstration](https://img.youtube.com/vi/z2ay6iUXEwM/hqdefault.jpg)](https://www.youtube.com/watch?v=z2ay6iUXEwM)
 
 ---
 
