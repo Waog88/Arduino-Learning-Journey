@@ -12,7 +12,7 @@ Learned how Buttons works and used LEDs and Buzzers to demonstrate examples.
 
 Click the thumbnail below to watch today's video log:
 
-[![Watch Day 10 Demonstration](https://img.youtube.com/vi/M9l7ejC4NfE/hqdefault.jpg)](https://www.youtube.com/watch?v=M9l7ejC4NfE)
+[![Watch Day 10 Demonstration](https://img.youtube.com/vi/4WxVXUBHACc/hqdefault.jpg)](https://www.youtube.com/watch?v=4WxVXUBHACc)
 
 ---
 
