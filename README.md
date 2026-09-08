@@ -33,6 +33,7 @@ My goal is to understand both the hardware and software behind Arduino and to do
 | **Day 09** | Buzzers | Arduino Uno, Wires, Potentiometer, Active Buzzer, Passive Buzzer  | [View Log](./Day-09/) |
 | **Day 10** | Photoresistor| Arduino Uno, Wires, LEDs, 330Ω Resistor, 5KΩ Resistor, Passive Buzzer, Photoresistor  | [View Log](./Day-10/) |
 | **Day 11** | Buttons| Arduino Uno, Wires, LEDs, 330Ω Resistor, 10KΩ Resistor, Active Buzzer, Button  | [View Log](./Day-11/) |
+| **Day 12** | Servo | Arduino Uno, Wires, 5KΩ Resistor, Photoresistor  | [View Log](./Day-12/) |
 
 ## Future Projects
 
